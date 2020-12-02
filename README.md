@@ -30,8 +30,3 @@ Avec la possibilité d'ajouter ou supprimer des lapins des courses en renseignan
 
 ![editcourse](https://image.noelshack.com/fichiers/2020/49/3/1606918278-capture.png)
 
-
-
-
-
-Avec la possi
